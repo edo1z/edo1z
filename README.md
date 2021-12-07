@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am web3ten0.
 
-- Web: https://devguchi-mysite.web.app/
 - Twitter: https://twitter.com/web3ten0
 - Blog: https://dev.to/web3ten0
 <p>
