@@ -7,13 +7,13 @@
 
 ### Most Used Languages 
 
-1. Rust 22.66%
-2. TypeScript 14.49%
-3. JavaScript 13.82%
-4. Vue 10.54%
-5. C++ 3.26%
-6. Go 2.86%
-7. HLSL 1.05%
+1. Rust 22.6%
+2. TypeScript 14.73%
+3. JavaScript 13.78%
+4. Vue 10.51%
+5. C++ 3.25%
+6. Go 2.85%
+7. HLSL 1.04%
 8. Dockerfile 0.44%
 9. Solidity 0.27%
 10. Python 0.22%
