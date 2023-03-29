@@ -3,8 +3,8 @@
 I am currently interested in WebRTC, AITuber, NestJS, NFT, Unity, HTTP/3, Rust, Cloudflare, Prisma, and Midjourny. 
 
 - Web: https://web3ten0.web.app/
-- Twitter: https://twitter.com/GrayHoodieCat
-- Blog: https://dev.to/grayhoodiecat
+- Twitter: https://twitter.com/web3ten0
+- Blog: https://dev.to/web3ten0
 - Zenn: https://zenn.dev/web3ten0
 
 ### Most Used Languages 
