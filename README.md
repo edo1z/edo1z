@@ -20,10 +20,5 @@ I am currently interested in WebRTC, AITuber, NestJS, NFT, Unity, HTTP/3, Rust, 
 9. Dockerfile 0.41%
 10. Solidity 0.26%
 
-<p>
-  
-  [![GrayHoodieCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayHoodieCat&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-  
-  
-</p>
+
 
