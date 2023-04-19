@@ -9,13 +9,13 @@ I am currently interested in WebRTC, AITuber, NestJS, Unity, HTTP/3, Rust, Cloud
 
 ### Most Used Languages 
 
-1. Rust 20.27%
-2. TypeScript 17.33%
-3. JavaScript 13.01%
-4. Vue 9.43%
-5. ShaderLab(C#) 5.38%
-6. C++ 2.92%
-7. Go 2.56%
-8. HLSL 0.94%
-9. Dockerfile 0.39%
-10. Solidity 0.25%
+1. Rust 20.04%
+2. TypeScript 17.84%
+3. JavaScript 12.95%
+4. Vue 9.32%
+5. C# 5.32%
+6. C++ 2.88%
+7. Go 2.53%
+8. HLSL 0.92%
+9. Handlebars 0.5%
+10. Dockerfile 0.39%
