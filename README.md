@@ -1,4 +1,4 @@
-- Web: https://web3ten0.web.app/
+- Web: https://net3i-8441c.web.app/
 - Twitter: https://twitter.com/net3i
 - Blog: https://dev.to/net3i
 
