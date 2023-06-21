@@ -2,7 +2,7 @@
 
 # net3i
 
-- Web: https://net3i-8441c.web.app/
+- Web: https://net3i.com
 - Twitter: https://twitter.com/net3i
 - Blog: https://dev.to/net3i
 
