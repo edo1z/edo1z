@@ -3,5 +3,5 @@
 # net3i
 
 - Web: https://net3i.com
-- Twitter: https://twitter.com/net3i
+- Twitter: https://twitter.com/edo1z
 
