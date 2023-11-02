@@ -1,7 +1,7 @@
 ![Background](https://pbs.twimg.com/profile_banners/1432355781697949696/1686891914/1500x500)
 
-# net3i
+# edo1z
 
-- Web: https://net3i.com
+- Web: https://logicky.com/edo1z
 - Twitter: https://twitter.com/edo1z
 
