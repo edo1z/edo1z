@@ -1,3 +1,3 @@
-- Web: https://logicky.com/edo1z
-- Twitter: https://twitter.com/edo1z
+- Web: https://logicky.com
+- Twitter: https://x.com/logicky_endo
 
