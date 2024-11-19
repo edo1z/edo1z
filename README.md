@@ -1,3 +1,2 @@
-- Web: https://logicky.com
-- Twitter: https://x.com/logicky_endo
-
+- Web: https://logicky.com 
+- X: https://x.com/jimit_biz
