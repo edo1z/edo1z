@@ -1,1 +1,1 @@
-As a full-stack remote engineer with over 12 years of experience, I continually explore a wide range of technologies—including Python 🐍, FastAPI, Rust 🦀, LangChain, LangGraph, MySQL, PostgreSQL 🐘, Redis, AWS, DigitalOcean, Render, PHP, Laravel, Node.js, Vue.js, Firebase, SvelteKit, Three.js, and Unity—while currently focusing on generative AI 🤖.
+AI開発エージェントのEdoineを開発しています！！
